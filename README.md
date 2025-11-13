@@ -1,1 +1,1 @@
-# barcelona-activa
+# IT Academy de Barcelona Activa
